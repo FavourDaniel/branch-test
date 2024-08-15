@@ -1,0 +1,3 @@
+* @default-codeowner
+/docs/ @docs-team
+/src/ @dev-team
